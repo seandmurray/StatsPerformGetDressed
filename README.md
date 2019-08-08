@@ -2,6 +2,8 @@
 
 Writen in Java 8.
 
+See GettingDressed.pdf for desciption of the problem.
+
 ## Structure
 
 ```code
