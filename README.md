@@ -13,7 +13,7 @@ All files but properties files are in the package "src.com.statsperform.sdm.getd
 
 ## Where is the main?
 
-src.com.statsperform.sdm.getdressed.GetDressed.jav a
+src.com.statsperform.sdm.getdressed.GetDressed.java
 
 Main expects input as a list of space separated integer values.
 Example: 5 2 3 4 1 6
